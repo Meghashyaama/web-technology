@@ -1,0 +1,40 @@
+body{
+    background-color: gold;
+    
+    
+
+}
+
+#demo{
+    font-size: 70px;
+
+}
+h1{
+    font-size: 50px;
+}
+
+
+#demo1{
+    color: red;
+    font-size: 40px;
+}
+
+.test{
+    color: hotpink;
+    font-size: 30px;
+
+
+}
+
+aside{
+    color: green;
+    font-size: 30px;
+
+}
+
+h3,h6,footer{
+    color: blueviolet;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}

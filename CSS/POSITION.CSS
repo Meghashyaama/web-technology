@@ -1,0 +1,51 @@
+#positions{
+    background-color: black;
+    height: 500px;
+    width: 800px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-around;
+}
+#relative{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    top:0px;
+
+}
+
+#absolute{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+    position: absolute;
+    top:0px;
+    
+}
+
+#sticky{
+    height: 100px;
+    width: 100px;
+    background-color:pink;
+    position: sticky;
+    top: 500px;
+    
+}
+#fixed{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: fixed;
+    top: 400px;
+    left: 800px;
+}
+
+#static{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    position: static;
+    
+    
+}
